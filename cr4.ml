@@ -239,3 +239,6 @@ module type RESTRICTED_QUEUE =
   struct 
     (* Implement the above structure! *)
   end;; *)
+
+(* Time to put it all together! Create a module called MyRestrictedQueue that passes RestrictedQueueParams
+    as an argument to CreateRestrictedQueue *)
